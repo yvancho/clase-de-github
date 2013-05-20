@@ -1,4 +1,4 @@
-clase-de-github
+clase-de-github - en la rama yvancho
 ===============
 
 Este es un ejemplo de GitHub para mi y estudiar.
